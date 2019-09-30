@@ -3,7 +3,7 @@ import os.path
 import win32com.client as win32
 
 #source excel file path
-excel_path = 'C:\\Users\\usenadu\\Documents\\dumidu-pearson\\google api\\1\\excel_files\\'
+excel_path = 'C:\\Users\\usenadu\\Documents\\excel_files\\'
 
 f = open ("excel.txt", "r")
 f1 = f.readlines()
