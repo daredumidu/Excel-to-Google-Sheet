@@ -1,0 +1,31 @@
+requrements
+
+pip install google-api-python-client
+
+pip install google-auth-httplib2
+
+pip install google-auth-oauthlib
+
+pip install pandas
+
+pip install pywin32
+
+execute "excel-to-google_v4.py"
+
+
+
+Google Sheets API in Python | How to export Excel tables To Google Sheets
+https://www.youtube.com/watch?v=6uLoesavBA4
+
+
+https://learndataanalysis.org/export-excel-data-to-google-sheets-in-python/
+
+
+
+https://developers.google.com/apis-explorer/#p/
+https://developers.google.com/apis-explorer/#p/sheets/v4/
+
+https://developers.google.com/sheets/api/guides/authorizing
+scope --> https://www.googleapis.com/auth/spreadsheets
+
+https://developers.google.com/sheets/api/reference/rest/v4/spreadsheets.values/clear
