@@ -10,7 +10,10 @@ pip install pandas
 
 pip install pywin32
 
-execute "excel-to-google_v4.py"
+create excel.txt and list all the excel files
+create gsheet.txt and list the corresponding gsheet ID
+
+execute "excel-to-google_v5.py"
 
 
 
