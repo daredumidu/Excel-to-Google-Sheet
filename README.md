@@ -1,4 +1,6 @@
 # Excel-to-Google-Sheet
+https://learndataanalysis.org/export-excel-data-to-google-sheets-in-python/
+
 version 1: upload one excel work sheet to a google work sheet.
 version 2: clear current google work sheet and upload one excel work sheet to the google sheet.
 version 3: upload an excel work book with multiple tabs to google sheet with multiple tabs.
